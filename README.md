@@ -1,13 +1,3 @@
-# Case study: intership/alternance
-
-Welcome to the Kiosk case study!
-
-This is a [Remix](https://remix.run/docs) application but don’t worry, you will grasp it easily.
-
-Please install the project, run it locally, and you will see what you have to do for this case study.
-
-Good luck!
-
 ## Development
 
 Install:
